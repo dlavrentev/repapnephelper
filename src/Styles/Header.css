@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: gray;
+}
+
+.header-links {
+    background: whitesmoke;
+    font-size: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
